@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/kduia-shopping-app/static/js/main.3b655433.chunk.js",
+    "main.js.map": "/kduia-shopping-app/static/js/main.3b655433.chunk.js.map",
+    "runtime-main.js": "/kduia-shopping-app/static/js/runtime-main.4dee8e39.js",
+    "runtime-main.js.map": "/kduia-shopping-app/static/js/runtime-main.4dee8e39.js.map",
+    "static/css/2.1fb90f1e.chunk.css": "/kduia-shopping-app/static/css/2.1fb90f1e.chunk.css",
+    "static/js/2.469a182f.chunk.js": "/kduia-shopping-app/static/js/2.469a182f.chunk.js",
+    "static/js/2.469a182f.chunk.js.map": "/kduia-shopping-app/static/js/2.469a182f.chunk.js.map",
+    "index.html": "/kduia-shopping-app/index.html",
+    "static/css/2.1fb90f1e.chunk.css.map": "/kduia-shopping-app/static/css/2.1fb90f1e.chunk.css.map",
+    "static/js/2.469a182f.chunk.js.LICENSE.txt": "/kduia-shopping-app/static/js/2.469a182f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dee8e39.js",
+    "static/css/2.1fb90f1e.chunk.css",
+    "static/js/2.469a182f.chunk.js",
+    "static/js/main.3b655433.chunk.js"
+  ]
+}
