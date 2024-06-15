@@ -34,6 +34,9 @@ const AppReducer = (state, action) => {
         case 'SET_BUDGET':
             return { ...state, CartValue: action.payload };
 
+        case 'ADD_ALLOCATION':
+            return { ...state, CartValue: state.CartValue + action.payload };
+
         default:
             return state;
     }

@@ -3,9 +3,9 @@ import { AppProvider } from './context/AppContext';
 import CartValue from './components/CartValue';
 import ExpenseList from './components/ExpenseList';
 import ItemSelected from './components/ItemSelected';
-import Location from './components/Location';
 import Remaining from './components/Remaining';
 import SpentSoFar from './components/SpentSoFar';
+import BudgetAllocation from './components/BudgetAllocation';
 
 function App() {
   return (
@@ -17,7 +17,10 @@ function App() {
             <CartValue />
           </div>
           <div className="col-sm">
-            <Location />
+            <Remaining />
+          </div>
+          <div className="col-sm">
+            <SpentSoFar />
           </div>
         </div>
         <h3 className="mt-3">Items</h3>
@@ -26,22 +29,16 @@ function App() {
             <ExpenseList />
           </div>
         </div>
-        <h3 className="mt-3">Remaining</h3>
-        <div className="row">
-          <div className="col-sm">
-            <Remaining />
-          </div>
-        </div>
-        <h3 className="mt-3">Spent so far</h3>
-        <div className="row">
-          <div className="col-sm">
-            <SpentSoFar />
-          </div>
-        </div>
         <h3 className="mt-3">Add/Reduce Item Quantity</h3>
         <div className="row mt-3">
           <div className="col-sm">
             <ItemSelected />
+          </div>
+        </div>
+        <h3 className="mt-3">Budget Allocation</h3>
+        <div className="row mt-3">
+          <div className="col-sm">
+            <BudgetAllocation />
           </div>
         </div>
       </div>
