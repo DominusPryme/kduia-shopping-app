@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/kduia-shopping-app/static/js/main.fd430346.chunk.js",
-    "main.js.map": "/kduia-shopping-app/static/js/main.fd430346.chunk.js.map",
+    "main.js": "/kduia-shopping-app/static/js/main.47a9d09b.chunk.js",
+    "main.js.map": "/kduia-shopping-app/static/js/main.47a9d09b.chunk.js.map",
     "runtime-main.js": "/kduia-shopping-app/static/js/runtime-main.4dee8e39.js",
     "runtime-main.js.map": "/kduia-shopping-app/static/js/runtime-main.4dee8e39.js.map",
     "static/css/2.1fb90f1e.chunk.css": "/kduia-shopping-app/static/css/2.1fb90f1e.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.4dee8e39.js",
     "static/css/2.1fb90f1e.chunk.css",
     "static/js/2.c4b5ce31.chunk.js",
-    "static/js/main.fd430346.chunk.js"
+    "static/js/main.47a9d09b.chunk.js"
   ]
 }
